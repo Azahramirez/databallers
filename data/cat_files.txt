@@ -1,0 +1,6 @@
+CatMotivosRespuestaBanco.csv
+CatStatusOptDirectDebit.csv
+CatStatusOptDirectDebitPayment.csv
+DirecDebitConfigExcecute.csv
+ProcessConfig.csv
+catbank.csv
