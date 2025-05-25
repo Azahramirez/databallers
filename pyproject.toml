@@ -8,4 +8,5 @@ dependencies = [
     "ipykernel>=6.29.5",
     "numpy>=2.2.6",
     "pandas>=2.2.3",
+    "streamlit>=1.45.1",
 ]
