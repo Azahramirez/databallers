@@ -11,5 +11,6 @@ dependencies = [
     "pandas>=2.2.3",
     "pyarrow>=20.0.0",
     "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
     "xgboost>=3.0.1",
 ]
